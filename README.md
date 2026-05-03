@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AndrewTRodriguez.png" width="180" alt="Andrew Rodriguez GitHub profile photo" style="border-radius: 50%;"/>
-</p>
-
-<p align="center">
   📍 San Francisco Bay Area • 🇺🇸 US Citizen • 🧬 Translational aging biology
 </p>
 
