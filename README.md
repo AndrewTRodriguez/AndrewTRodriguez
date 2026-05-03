@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/andrew-rodriguez/">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:andrewthomasrodriguez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AndrewTRodriguez.png" width="180" alt="Andrew Rodriguez GitHub profile photo" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">
@@ -95,4 +96,3 @@ Ph.D.-trained scientist in the biology of aging, with expertise in autophagy, ne
 ## Let’s Connect
 
 - LinkedIn: [linkedin.com/in/andrew-rodriguez](https://www.linkedin.com/in/andrew-rodriguez/)
-- Email: [andrewthomasrodriguez@gmail.com](mailto:andrewthomasrodriguez@gmail.com)
