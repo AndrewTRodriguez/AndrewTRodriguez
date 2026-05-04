@@ -92,3 +92,10 @@ Ph.D.-trained scientist in the biology of aging, with expertise in autophagy, ne
 ## Let’s Connect
 
 - LinkedIn: [linkedin.com/in/andrew-rodriguez](https://www.linkedin.com/in/andrew-rodriguez/)
+
+---
+
+## About This Repository
+
+This repository serves as a concise, version-controlled professional profile with research focus, training, and selected accomplishments in aging biology.
+
