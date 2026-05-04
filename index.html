@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Andrew T. Rodriguez | Buck Institute | Resume & About</title>
+    <meta
+      name="description"
+      content="Andrew T. Rodriguez — one-page resume and about page highlighting research, engineering, and impact at the Buck Institute for Research on Aging."
+    />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="canonical" href="https://andrewtrodriguez.github.io/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Andrew T. Rodriguez | Resume & About" />
+    <meta
+      property="og:description"
+      content="One-page resume and about page for Andrew T. Rodriguez."
+    />
+    <meta property="og:url" content="https://andrewtrodriguez.github.io/" />
+    <meta property="og:image" content="https://www.buckinstitute.org/wp-content/themes/buck/images/logo.svg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Andrew T. Rodriguez | Resume & About" />
+    <meta
+      name="twitter:description"
+      content="One-page resume and about page for Andrew T. Rodriguez."
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      :root {
+        --buck-deep-blue: #003b70;
+        --buck-light-blue: #00a3e0;
+        --buck-gold: #f2a900;
+        --ink: #1d2630;
+        --surface: #f5f9fc;
+        --white: #ffffff;
+      }
+
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      body {
+        margin: 0;
+        font-family: "Source Sans 3", Arial, sans-serif;
+        color: var(--ink);
+        background: linear-gradient(180deg, #eef6fb 0%, #ffffff 35%);
+        line-height: 1.6;
+      }
+
+      .container { width: min(1000px, 92vw); margin: 0 auto; }
+      header {
+        padding: 1.25rem 0;
+        border-bottom: 4px solid var(--buck-light-blue);
+        background: var(--white);
+        position: sticky;
+        top: 0;
+      }
+
+      .brand { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+      .brand img { width: 180px; max-width: 45vw; height: auto; }
+      nav a {
+        color: var(--buck-deep-blue);
+        text-decoration: none;
+        margin-left: 1rem;
+        font-weight: 600;
+      }
+
+      .hero {
+        background: var(--buck-deep-blue);
+        color: var(--white);
+        padding: 4rem 0 3rem;
+      }
+
+      h1, h2, h3 { line-height: 1.2; margin: 0 0 .6rem; }
+      h1 { font-size: clamp(2rem, 5vw, 3rem); }
+      h2 { color: var(--buck-deep-blue); margin-top: 2rem; }
+
+      .subtitle { font-size: 1.2rem; color: #c8e9ff; max-width: 64ch; }
+
+      .pill-list { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1rem; }
+      .pill {
+        background: rgba(255,255,255,.14);
+        border: 1px solid rgba(255,255,255,.4);
+        padding: .3rem .7rem;
+        border-radius: 999px;
+        font-weight: 600;
+      }
+
+      main { padding: 2rem 0 3rem; }
+      section {
+        background: var(--white);
+        border: 1px solid #dbe6f0;
+        border-left: 6px solid var(--buck-light-blue);
+        padding: 1.2rem 1.2rem 1rem;
+        border-radius: 12px;
+        margin-bottom: 1rem;
+      }
+
+      .two-col { display: grid; gap: 1rem; }
+      @media (min-width: 840px) { .two-col { grid-template-columns: 1.5fr 1fr; } }
+
+      ul { padding-left: 1.2rem; margin-top: .5rem; }
+      .highlight { color: var(--buck-deep-blue); font-weight: 700; }
+
+      footer {
+        padding: 1.2rem 0 2rem;
+        border-top: 3px solid var(--buck-gold);
+        color: #3f4f61;
+      }
+
+      .btn {
+        display: inline-block;
+        margin-top: .75rem;
+        background: var(--buck-gold);
+        color: #102032;
+        padding: .55rem .9rem;
+        border-radius: 8px;
+        font-weight: 700;
+        text-decoration: none;
+      }
+    </style>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Andrew T. Rodriguez",
+        "url": "https://andrewtrodriguez.github.io/",
+        "jobTitle": "Research & Engineering Professional",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Buck Institute for Research on Aging"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/",
+          "https://github.com/AndrewTRodriguez"
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <div class="container brand">
+        <img src="https://www.buckinstitute.org/wp-content/themes/buck/images/logo.svg" alt="Buck Institute logo" />
+        <nav aria-label="Primary">
+          <a href="#about">About</a>
+          <a href="#experience">Experience</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="container">
+        <h1>Andrew T. Rodriguez</h1>
+        <p class="subtitle">
+          Building practical, human-centered solutions at the intersection of research,
+          technology, and mission-driven science.
+        </p>
+        <div class="pill-list" aria-label="Key focus areas">
+          <span class="pill">Aging Research Support</span>
+          <span class="pill">Data & Automation</span>
+          <span class="pill">Operations Excellence</span>
+        </div>
+      </div>
+    </section>
+
+    <main class="container">
+      <div class="two-col">
+        <section id="about">
+          <h2>About</h2>
+          <p>
+            I am a multidisciplinary contributor focused on helping teams move faster and smarter.
+            At the <span class="highlight">Buck Institute for Research on Aging</span>, I support
+            work that advances scientific discovery through clear systems, thoughtful execution,
+            and measurable outcomes.
+          </p>
+          <p>
+            This page is designed as a quick one-page resume profile for recruiters, collaborators,
+            and hiring teams.
+          </p>
+        </section>
+
+        <section id="contact">
+          <h2>Contact</h2>
+          <p><strong>Email:</strong> your.email@example.com</p>
+          <p><strong>Location:</strong> Bay Area, California</p>
+          <p><strong>GitHub:</strong> github.com/AndrewTRodriguez</p>
+          <a class="btn" href="mailto:your.email@example.com">Email Andrew</a>
+        </section>
+      </div>
+
+      <section id="experience">
+        <h2>Experience Highlights</h2>
+        <ul>
+          <li>Supported research and operational workflows tied to aging science initiatives.</li>
+          <li>Improved internal processes with automation and clear documentation.</li>
+          <li>Collaborated across technical and non-technical teams to deliver outcomes.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Skills</h2>
+        <p>
+          Project Coordination · Data Analysis · Documentation · Process Improvement ·
+          Stakeholder Communication · Problem Solving
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        <small>© <span id="year"></span> Andrew T. Rodriguez · Built for resume visibility and SEO.</small>
+      </div>
+    </footer>
+
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
