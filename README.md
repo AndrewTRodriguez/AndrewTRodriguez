@@ -20,7 +20,7 @@
 
 Ph.D.-trained scientist in the biology of aging, applying rigorous experimental design and scientific judgment to questions where confidently-wrong answers are common. My dissertation uncovered how neuropeptide signaling and autophagy interact across tissues to regulate stress resilience and lifespan in *C. elegans*.
 
-I use Claude and Claude Code daily for analysis, coding, and literature work. I'm interested in building evaluations that probe where frontier models fail in biology—identifying capability gaps in experimental planning, data interpretation, and mechanistic reasoning.
+I use Claude and Claude Code daily for analysis, coding, and literature work. I'm interested in building evaluations that probe where frontier models fail in biology, identifying capability gaps in experimental planning, data interpretation, and mechanistic reasoning.
 
 ---
 
@@ -45,15 +45,15 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 ## 🛠️ Technical Skills
 
-**🤖 AI & Computation** — Claude & Claude Code (daily), Python, R, MATLAB, survival analysis, GraphPad Prism
+**🤖 AI & Computation**: Claude & Claude Code (daily), Python, R, MATLAB, survival analysis, GraphPad Prism
 
-**📊 Bioinformatics** — RNA-seq pipelines (STAR, DESeq2, clusterProfiler), pathway enrichment, differential expression
+**📊 Bioinformatics**: RNA-seq pipelines (STAR, DESeq2, clusterProfiler), pathway enrichment, differential expression
 
-**🧪 Wet Lab** — *C. elegans* genetics (CRISPR/Cas9, RNAi, microinjection, lifespan assays), mammalian cell culture, PBMC isolation, flow cytometry, qPCR, immunostaining, RNA-seq library prep
+**🧪 Wet Lab**: *C. elegans* genetics (CRISPR/Cas9, RNAi, microinjection, lifespan assays), mammalian cell culture, PBMC isolation, flow cytometry, qPCR, immunostaining, RNA-seq library prep
 
-**🔬 Imaging** — Confocal microscopy (Zeiss LSM980 Airyscan), 3D segmentation (Imaris, ImageJ, CellProfiler)
+**🔬 Imaging**: Confocal microscopy (Zeiss LSM980 Airyscan), 3D segmentation (Imaris, ImageJ, CellProfiler)
 
-**🗣️ Languages** — English (native), Spanish (professional)
+**🗣️ Languages**: English (native), Spanish (professional)
 
 ---
 
@@ -63,7 +63,7 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 **Garrison Lab, Buck Institute / USC**
 
-- Discovered nematocin (oxytocin/vasopressin homolog) as a suppressor of the heat shock response in *C. elegans*—first known endogenous inter-cellular signaling molecule with this function
+- Discovered nematocin (oxytocin/vasopressin homolog) as a suppressor of the heat shock response in *C. elegans*; first known endogenous inter-cellular signaling molecule with this function
 - Built RNA-seq differential expression pipeline identifying 42 DE genes, including 1.9x upregulation of autophagy receptor *sqst-1*
 - Established lifespan, thermotolerance, and RNAi workflows; validated autophagy-dependence via Cox proportional hazards modeling
 - President, Buck Institute Multicultural Trainee Association (2024–2025)
@@ -86,12 +86,6 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 - **Rodriguez A.T. et al.** *Neuropeptide Regulation of the Heat Shock Response.* Manuscript in preparation.
 - **Wang W., Flury A.G., Rodriguez A.T. (co-first), et al.** "A role for worm *cutl-24* in background- and parent-of-origin-dependent ER stress resistance." [*BMC Genomics* 23, 842 (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9764823/).
-
----
-
-## 🚀 Projects
-
-- **Mouse Lifespan Meta-Analysis Tool** *(in development)* — Interactive tool compiling published lifespan data across longevity-drug interventions. Building with Claude Code, deploying on Vercel.
 
 ---
 
