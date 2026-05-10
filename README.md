@@ -1,5 +1,5 @@
 <h1 align="center">Andrew T. Rodriguez, Ph.D.</h1>
-<h3 align="center">Aging Biology &bull; Scientific Reasoning &bull; Frontier AI Evaluation</h3>
+<h3 align="center">🧬 Aging Biology &bull; 🧠 Scientific Reasoning &bull; 🤖 Frontier AI Evaluation</h3>
 
 <p align="center">
   <a href="https://andrewtrodriguez.github.io/">
@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  San Francisco Bay Area &bull; US Citizen &bull; Translational aging biology &bull; AI for science
+  📍 San Francisco Bay Area &bull; 🇺🇸 US Citizen &bull; 🔬 Translational aging biology &bull; ✨ AI for science
 </p>
 
 ---
 
-## About
+## 👋🏽 About
 
 Ph.D.-trained scientist in the biology of aging, applying rigorous experimental design and scientific judgment to questions where confidently-wrong answers are common. My dissertation uncovered how neuropeptide signaling and autophagy interact across tissues to regulate stress resilience and lifespan in *C. elegans*.
 
@@ -24,16 +24,16 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 ---
 
-## Current Interests
+## 🎯 Current Interests
 
-- Evaluating frontier AI models on scientific reasoning tasks in biology
-- Identifying capability gaps in experimental design and mechanistic inference
-- Translational strategies for stress resilience and healthy aging
-- Cell non-autonomous regulation of autophagy and proteostasis
+- 🤖 Evaluating frontier AI models on scientific reasoning tasks in biology
+- 🔍 Identifying capability gaps in experimental design and mechanistic inference
+- 💊 Translational strategies for stress resilience and healthy aging
+- 🧫 Cell non-autonomous regulation of autophagy and proteostasis
 
 ---
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | Year |
 |--------|------------|------|
@@ -43,21 +43,21 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**AI & Computation** — Claude & Claude Code (daily), Python, R, MATLAB, survival analysis, GraphPad Prism
+**🤖 AI & Computation** — Claude & Claude Code (daily), Python, R, MATLAB, survival analysis, GraphPad Prism
 
-**Bioinformatics** — RNA-seq pipelines (STAR, DESeq2, clusterProfiler), pathway enrichment, differential expression
+**📊 Bioinformatics** — RNA-seq pipelines (STAR, DESeq2, clusterProfiler), pathway enrichment, differential expression
 
-**Wet Lab** — *C. elegans* genetics (CRISPR/Cas9, RNAi, microinjection, lifespan assays), mammalian cell culture, PBMC isolation, flow cytometry, qPCR, immunostaining, RNA-seq library prep
+**🧪 Wet Lab** — *C. elegans* genetics (CRISPR/Cas9, RNAi, microinjection, lifespan assays), mammalian cell culture, PBMC isolation, flow cytometry, qPCR, immunostaining, RNA-seq library prep
 
-**Imaging** — Confocal microscopy (Zeiss LSM980 Airyscan), 3D segmentation (Imaris, ImageJ, CellProfiler)
+**🔬 Imaging** — Confocal microscopy (Zeiss LSM980 Airyscan), 3D segmentation (Imaris, ImageJ, CellProfiler)
 
-**Languages** — English (native), Spanish (professional)
+**🗣️ Languages** — English (native), Spanish (professional)
 
 ---
 
-## Selected Experience
+## 💼 Selected Experience
 
 ### Ph.D. Research Scientist, Biology of Aging (2020–2025)
 
@@ -82,20 +82,20 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 ---
 
-## Publications
+## 📄 Publications
 
 - **Rodriguez A.T. et al.** *Neuropeptide Regulation of the Heat Shock Response.* Manuscript in preparation.
 - **Wang W., Flury A.G., Rodriguez A.T. (co-first), et al.** "A role for worm *cutl-24* in background- and parent-of-origin-dependent ER stress resistance." [*BMC Genomics* 23, 842 (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9764823/).
 
 ---
 
-## Projects
+## 🚀 Projects
 
-- **[Mouse Lifespan Meta-Analysis Tool](https://github.com/AndrewTRodriguez/andrewtrodriguez.github.io)** — Interactive tool compiling published lifespan data across longevity-drug interventions (building with Claude Code, deploying on Vercel)
+- **Mouse Lifespan Meta-Analysis Tool** *(in development)* — Interactive tool compiling published lifespan data across longevity-drug interventions. Building with Claude Code, deploying on Vercel.
 
 ---
 
-## Connect
+## 🤝🏽 Connect
 
-- **Website:** [andrewtrodriguez.github.io](https://andrewtrodriguez.github.io/)
-- **LinkedIn:** [linkedin.com/in/andrew-rodriguez](https://www.linkedin.com/in/andrew-rodriguez/)
+- **🌐 Website:** [andrewtrodriguez.github.io](https://andrewtrodriguez.github.io/)
+- **💼 LinkedIn:** [linkedin.com/in/andrew-rodriguez](https://www.linkedin.com/in/andrew-rodriguez/)
