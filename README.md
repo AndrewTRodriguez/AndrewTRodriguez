@@ -2,8 +2,8 @@
 <h3 align="center">🧬 Aging Biology &bull; 🧠 Scientific Reasoning &bull; 🤖 Frontier AI Evaluation</h3>
 
 <p align="center">
-  <a href="https://andrewtrodriguez.github.io/">
-    <img src="https://img.shields.io/badge/Website-andrewtrodriguez.github.io-04477f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  <a href="https://andrewtrodriguez.com/">
+    <img src="https://img.shields.io/badge/Website-andrewtrodriguez.com-04477f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/andrew-rodriguez/">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -91,5 +91,5 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 ## 🤝🏽 Connect
 
-- **🌐 Website:** [andrewtrodriguez.github.io](https://andrewtrodriguez.github.io/)
+- **🌐 Website:** [andrewtrodriguez.com](https://andrewtrodriguez.com/)
 - **💼 LinkedIn:** [linkedin.com/in/andrew-rodriguez](https://www.linkedin.com/in/andrew-rodriguez/)
