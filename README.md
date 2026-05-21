@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://andrewtrodriguez.com/">
-    <img src="https://img.shields.io/badge/Website-andrewtrodriguez.com-04477f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-andrewtrodriguez.com-0067AC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0067AC" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/andrew-rodriguez/">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
