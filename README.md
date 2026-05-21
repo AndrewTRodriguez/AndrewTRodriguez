@@ -82,7 +82,7 @@ Ph.D.-trained scientist in the biology of aging, applying rigorous experimental 
 
 ## 📄 Publications & Projects
 
-- **Rodriguez A.T. et al.** *Neuropeptide Regulation of the Heat Shock Response.* Manuscript in preparation (Garrison Lab).
+- **Rodriguez A.T. et al.** "Neuropeptide Regulation of the Heat Shock Response." Manuscript in preparation (Garrison Lab).
 - **Wang W., Flury A.G., Rodriguez A.T. (co-first), et al.** "A role for worm *cutl-24* in background- and parent-of-origin-dependent ER stress resistance." [*BMC Genomics* 23, 842 (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9764823/).
 - **Aging Biology Evaluation** — [lifespan.andrewtrodriguez.com](https://lifespan.andrewtrodriguez.com). Deployed Next.js site presenting a 1,379-gene evaluation of Claude Sonnet 4.6 on a longevity-influence prediction task from the GenAge model organisms database; two-call solver-advisor architecture with forced tool use; LLM grader validated against hand-grading (Cohen's κ = 0.79).
 
