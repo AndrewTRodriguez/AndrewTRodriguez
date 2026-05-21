@@ -18,9 +18,7 @@
 
 ## 👋🏽 About
 
-Ph.D.-trained scientist in the biology of aging, applying rigorous experimental design and scientific judgment to questions where confidently-wrong answers are common. My dissertation uncovered how neuropeptide signaling and autophagy interact across tissues to regulate stress resilience and lifespan in *C. elegans*.
-
-I use Claude and Claude Code daily for analysis, coding, and literature work. I'm interested in building evaluations that probe where frontier models fail in biology, identifying capability gaps in experimental planning, data interpretation, and mechanistic reasoning.
+Ph.D.-trained scientist in the biology of aging, applying rigorous experimental design and scientific judgment to questions where confidently-wrong answers are common. Routine user of Claude and Claude Code for analysis, coding, and literature work; interested in building evaluations that probe where frontier models fail in biology.
 
 ---
 
@@ -45,13 +43,13 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 ## 🛠️ Technical Skills
 
-**🤖 AI & Computation**: Claude & Claude Code (daily), Python, R, MATLAB, survival analysis, GraphPad Prism
+**🤖 AI & Computation**: Claude & Claude Code (daily), Anthropic API, ChatGPT, Cursor, Python, R, MATLAB, survival analysis (Cox PH, Kaplan–Meier), GraphPad Prism
 
-**📊 Bioinformatics**: RNA-seq pipelines (STAR, DESeq2, clusterProfiler), pathway enrichment, differential expression
+**📊 Bioinformatics**: RNA-seq pipelines (STAR, DESeq2, clusterProfiler, ggplot2), pathway enrichment, differential expression
 
-**🧪 Wet Lab**: *C. elegans* genetics (CRISPR/Cas9, RNAi, microinjection, lifespan assays), mammalian cell culture, PBMC isolation, flow cytometry, qPCR, immunostaining, RNA-seq library prep
+**🧪 Wet Lab**: *C. elegans* genetics (CRISPR/Cas9, RNAi, lifespan & thermotolerance assays, microinjection, transgenic strain construction), mammalian cell culture, PBMC isolation & processing, flow cytometry (FACS), qPCR, immunostaining, cryosectioning, RNA-seq library prep (Illumina TruSeq), plasmid cloning, mouse muscle stem cell biology, optogenetics
 
-**🔬 Imaging**: Confocal microscopy (Zeiss LSM980 Airyscan), 3D segmentation (Imaris, ImageJ, CellProfiler)
+**🔬 Imaging**: Immunofluorescence, confocal microscopy (Zeiss LSM980 Airyscan), 3D segmentation (Imaris, ImageJ, CellProfiler), fluorescent reporter strain design
 
 **🗣️ Languages**: English (native), Spanish (professional)
 
@@ -63,28 +61,28 @@ I use Claude and Claude Code daily for analysis, coding, and literature work. I'
 
 **Garrison Lab, Buck Institute / USC**
 
-- Discovered nematocin (oxytocin/vasopressin homolog) as a suppressor of the heat shock response in *C. elegans*; first known endogenous inter-cellular signaling molecule with this function
-- Built RNA-seq differential expression pipeline identifying 42 DE genes, including 1.9x upregulation of autophagy receptor *sqst-1*
-- Established lifespan, thermotolerance, and RNAi workflows; validated autophagy-dependence via Cox proportional hazards modeling
-- President, Buck Institute Multicultural Trainee Association (2024–2025)
+- Discovered that the neuropeptide nematocin, an oxytocin/vasopressin homolog, suppresses the heat shock response in *C. elegans*; first known endogenous inter-cellular signaling molecule with this function; first-author manuscript in preparation
+- Built RNA-seq differential expression and pathway enrichment pipeline in R (STAR, DESeq2, clusterProfiler), identifying 42 DE genes after heat shock, including 1.9-fold upregulation of autophagy receptor *sqst-1*
+- Established lifespan, thermotolerance, and RNAi workflows using novel *C. elegans* strains generated via genetic crossing; demonstrated autophagy-dependence of the survival phenotype via *lgg-1* RNAi knockdown and Cox proportional hazards modeling
+- President (2024–2025) and Vice President (2023–2024), Buck Institute Multicultural Trainee Association; led five-member team delivering professional development, institute-wide events, and STEM outreach to underrepresented Bay Area schools
 
 ### Staff Research Associate II, Stem Cell Aging (2019–2020)
 
 **Brack Lab, UCSF**
 
-- Isolated and characterized satellite cells from murine skeletal muscle to study age-associated stem-cell function
+- Isolated and characterized satellite cells from murine skeletal muscle to study age-associated changes in stem cell function; performed cryosectioning, immunostaining, and flow cytometry to evaluate lineage composition and regenerative potential
 
 ### Research Associate II, Radiobiology R&D (2017–2019)
 
 **Varian Medical Systems (now Siemens Healthineers)**
 
-- Designed in-vitro assays of radiation-induced DNA damage/repair; contributed to AACR 2019 abstract
+- Designed and executed *in vitro* assays evaluating DNA damage and repair mechanisms following radiation exposure; isolated and processed PBMCs from human samples; contributed to AACR 2019 conference abstract
 
 ---
 
 ## 📄 Publications
 
-- **Rodriguez A.T. et al.** *Neuropeptide Regulation of the Heat Shock Response.* Manuscript in preparation.
+- **Rodriguez A.T. et al.** *Neuropeptide Regulation of the Heat Shock Response.* Manuscript in preparation (Garrison Lab).
 - **Wang W., Flury A.G., Rodriguez A.T. (co-first), et al.** "A role for worm *cutl-24* in background- and parent-of-origin-dependent ER stress resistance." [*BMC Genomics* 23, 842 (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9764823/).
 
 ---
